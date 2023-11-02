@@ -26,4 +26,4 @@
 
 ### Achievements 🏆
 
-<img src='https://www.codewars.com/users/pashabezk/badges/small' />
+[<img src='https://www.codewars.com/users/pashabezk/badges/small' />](https://www.codewars.com/users/pashabezk)
